@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elizabeth Okunbor</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eokunbor&label=Profile%20views&color=0e75b6&style=flat" alt="eokunbor" /> </p>
-
+- 🎓 CS student at UAB
+- 💻 Specializing in front-end development
 - 🌱 I’m currently learning **React, React Native**
 
 - 👨‍💻 All of my projects are available at [https://eokunborportfolio.my.canva.site/home](https://eokunborportfolio.my.canva.site/home)
