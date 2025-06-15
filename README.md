@@ -3,15 +3,15 @@
 
 - 🎓 CS student at UAB </br>
 - 💻 Specializing in front-end development</br>
-- 🌱 I’m currently learning **React, React Native**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://eokunborportfolio.my.canva.site/home](https://eokunborportfolio.my.canva.site/home)
 
 - 💬 Ask me about **HTML/CSS/JS & Python**
 
-- 📫 How to reach me **eluzedesigns@gmail.com**
+- 📫 How to reach me by email **eluzedesigns@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/4dZbyOF](https://bit.ly/4dZbyOF)
+- 📄 View my resume [https://bit.ly/4dZbyOF](https://bit.ly/4dZbyOF)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
