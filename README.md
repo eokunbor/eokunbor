@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://eokunborportfolio.my.canva.site/home](https://eokunborportfolio.my.canva.site/home)
 
-- 💬 Ask me about **HTML/CSS/JS & Python**
+- 💬 Ask me about **HTML/CSS/JS React & Python**
 
 - 📫 How to reach me by email **eluzedesigns@gmail.com**
 
