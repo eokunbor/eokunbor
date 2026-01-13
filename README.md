@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML/CSS/JS React & Python**
 
-- 📫 How to reach me by email **eluzedesigns@gmail.com**
+- 📫 How to reach me by email **elizabethokunbor04@gmail.com**
 
 - 📄 View my resume [https://bit.ly/4dZbyOF](https://bit.ly/4dZbyOF)
 
